@@ -1,0 +1,21 @@
+# Python / environment
+venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# YOLO / models
+yolov5/
+*.pt
+.cache/
+
+# Data / outputs
+training_images/
+testing_images/
+outputs/
+*.csv
