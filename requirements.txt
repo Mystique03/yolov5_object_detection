@@ -7,7 +7,7 @@ torch
 torchvision
 numpy
 pillow
-opencv-python
+opencv-python-headless
 pandas
 matplotlib
 ultralytics
